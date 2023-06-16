@@ -1,3 +1,8 @@
+// Felipe Conde
+// Tarea n2 JavaScript
+// DESARROLLO WEB FULL STACK
+
+
 // 1. Crea un programa que tome un número como argumento y devuelva "par" si el
 // número es par o "impar" si el número es impar.
 
